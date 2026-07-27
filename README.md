@@ -77,3 +77,12 @@ Open the notebook and run all cells from top to bottom.
 - prioritize strong markets and regions when allocating inventory;
 - investigate high-value orders separately instead of automatically
   treating them as data errors.
+
+  ## Data Source and Privacy
+
+This project uses the public Global Superstore dataset obtained from:
+
+https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset
+
+The dataset is used only for educational and portfolio purposes.
+No employer, customer, or confidential business data is included.
