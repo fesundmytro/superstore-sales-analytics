@@ -55,7 +55,7 @@ The notebook includes:
 
 ## Repository Files
 
-- `superstore_sales_analytics.ipynb` — complete analysis;
+- `superstore-sales-analytics.ipynb` — complete analysis;
 - `sales_clean.csv` — cleaned dataset for Python, SQL, and visualization;
 - `README.md` — project documentation;
 - `requirements.txt` — required Python libraries.
