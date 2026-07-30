@@ -41,7 +41,27 @@ The notebook includes:
 - category revenue and profitability analysis.
 
 ## Key Findings
+## Visual Results
 
+### Monthly Sales Trend
+
+![Monthly sales trend](images/monthly_sales_trend.png)
+
+Monthly sales show recurring seasonal peaks, with the strongest
+demand appearing toward the end of the year.
+
+### Sales by Category
+
+![Sales by category](images/sales_by_category.png)
+
+Technology is the largest product category by total revenue.
+
+### Correlation Analysis
+
+![Correlation matrix](images/correlation_matrix.png)
+
+Discount has a negative relationship with profit, which indicates
+that discount policies should be reviewed by product category.
 - Technology is the largest category, generating 4,744,691 in sales
   and 37.53% of total revenue.
 - APAC is the strongest market by total sales.
